@@ -1,0 +1,7 @@
+__pycache__/
+.idea/
+.venv/
+/sqlite.db
+/sqlite.db-shm
+/sqlite.db-wal
+/rnd/

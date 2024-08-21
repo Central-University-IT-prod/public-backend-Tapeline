@@ -1,0 +1,12 @@
+peewee==3.17.1
+aiogram==3.4.1
+psycopg2-binary==2.9.9
+requests==2.31.0
+ratelimit==2.2.1
+polyline~=2.0.2
+pycairo==1.26.0
+py-staticmaps==0.3.0
+pytest~=8.1.1
+pillow~=10.2.0
+pixelmatch==0.3.0
+pytest-image-snapshot==0.3.0
